@@ -20,6 +20,8 @@ lerna-debug.log*
 
 .env
 
+yarn.lock
+
 # IDEs and editors
 /.idea
 .project
